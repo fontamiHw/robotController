@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cdtprojectproperties>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.IncludePaths">
+<language name="s,S,asm">
+<includepath>E:\Sw\eclipse\eclipseProjects\Arduino\GlDisplay\src\dashBoard\dial\speedMeter\clock</includepath>
+<includepath>E:\Sw\eclipse\eclipseProjects\Arduino\GlDisplay\src\dashBoard\dial\speedMeter</includepath>
+<includepath>E:\Sw\eclipse\eclipseProjects\Arduino\GlDisplay\src\dashBoard\dial</includepath>
+<includepath>E:\Sw\eclipse\eclipseProjects\Arduino\GlDisplay\src\dashBoard</includepath>
+<includepath>E:\Win\hw\arduino-0022\libraries\glcd\fonts</includepath>
+<includepath>E:\Win\hw\arduino-0022\libraries\glcd</includepath>
+<includepath>E:\Win\hw\arduino-0022\libraries\Time</includepath>
+
+</language>
+<language name="C Source File">
+<includepath>E:\Win\hw\arduino-0022\hardware\arduino\cores\arduino</includepath>
+<includepath>E:\Sw\eclipse\eclipseProjects\Arduino\GlDisplay\src\dashBoard\dial\speedMeter\clock</includepath>
+<includepath>E:\Sw\eclipse\eclipseProjects\Arduino\GlDisplay\src\dashBoard\dial\speedMeter</includepath>
+<includepath>E:\Sw\eclipse\eclipseProjects\Arduino\GlDisplay\src\dashBoard\dial</includepath>
+<includepath>E:\Sw\eclipse\eclipseProjects\Arduino\GlDisplay\src\dashBoard</includepath>
+<includepath>E:\Win\hw\arduino-0022\libraries\glcd\fonts</includepath>
+<includepath>E:\Win\hw\arduino-0022\libraries\glcd</includepath>
+<includepath>E:\Win\hw\arduino-0022\libraries\Time</includepath>
+
+</language>
+<language name="C++ Source File">
+<includepath>E:\Win\hw\arduino-0022\hardware\arduino\cores\arduino</includepath>
+<includepath>E:\Sw\eclipse\eclipseProjects\Arduino\GlDisplay\src\dashBoard\dial\speedMeter\clock</includepath>
+<includepath>E:\Sw\eclipse\eclipseProjects\Arduino\GlDisplay\src\dashBoard\dial\speedMeter</includepath>
+<includepath>E:\Sw\eclipse\eclipseProjects\Arduino\GlDisplay\src\dashBoard\dial</includepath>
+<includepath>E:\Sw\eclipse\eclipseProjects\Arduino\GlDisplay\src\dashBoard</includepath>
+<includepath>E:\Win\hw\arduino-0022\libraries\glcd\fonts</includepath>
+<includepath>E:\Win\hw\arduino-0022\libraries\glcd</includepath>
+<includepath>E:\Win\hw\arduino-0022\libraries\Time</includepath>
+
+</language>
+<language name="Object File">
+
+</language>
+</section>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.Macros">
+<language name="s,S,asm">
+
+</language>
+<language name="C Source File">
+
+</language>
+<language name="C++ Source File">
+
+</language>
+<language name="Object File">
+
+</language>
+</section>
+</cdtprojectproperties>

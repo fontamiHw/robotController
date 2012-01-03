@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- When selected, use grey -->
+    <item android:drawable="@drawable/tab1"
+          android:state_selected="true" />
+    <!-- When not selected, use white-->
+    <item android:drawable="@drawable/tab1_2" />
+    
+        <!-- When selected, use grey -->
+    <item android:drawable="@drawable/tab2"
+          android:state_selected="true" />
+    <!-- When not selected, use white-->
+    <item android:drawable="@drawable/tab2_2" />
+    
+        <!-- When selected, use grey -->
+    <item android:drawable="@drawable/tab3"
+          android:state_selected="true" />
+    <!-- When not selected, use white-->
+    <item android:drawable="@drawable/tab3_2" />
+</selector>

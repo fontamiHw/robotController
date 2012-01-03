@@ -1,0 +1,23 @@
+This is the project to create a robot (2 motors) controller
+It has been created for an Arduino Mega2560 and controlled by a WIFI connection with an Android terminal.
+it is composed by two eclipse sub-project for the 2 differend architecture
+
+1) Android:
+This is the Android project to create a simple car controller.
+
+2) Arduino:
+This is the Arduino Mega2560 Eclipse project (do no use arduino IDE)
+It uses two extra arduino libraries, which are Time and GLCD, and the other my project called DashBoard. 
+A WIFI Shield that do a terminal server is used to comunicate with Android (i used this http://www.dfrobot.com/wiki/index.php?title=WiFi_Shield_For_Arduino_%28SKU:TEL0019%29). 
+Using that terminal server the development is easy because everything could be unit tested with the Serial class of arduino.
+
+To re-create the exactly project, after the download of this code,
+three source folder need to be created and linked to the project.
+src/dashBoard -> my git project GlDisplay
+src/glcd -> arduino library GLCD
+src/Time -> arduino library Time
+
+
+Eclipse setting:
+Import the eclipseCompileSetting.xml configuration file and adapt the directories
+Do a clean project before start.

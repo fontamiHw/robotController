@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout
+android:id="@+id/widget0"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+xmlns:android="http://schemas.android.com/apk/res/android"
+>
+<ToggleButton android:layout_height="wrap_content" android:text="@string/activateSensor" android:layout_width="wrap_content" android:id="@+id/sensorButton" android:layout_x="26dp" android:layout_y="32dp" android:checked="false"></ToggleButton>
+<Button android:layout_height="wrap_content" android:layout_width="wrap_content" android:text="@string/SyncronizeButton" android:id="@+id/syncButton" android:layout_x="104dp" android:layout_y="30dp"></Button>
+<ToggleButton android:layout_height="wrap_content" android:text="@string/popoff" android:layout_width="wrap_content" android:id="@+id/popOffButton" android:layout_x="221dp" android:layout_y="32dp"></ToggleButton>
+<SeekBar android:layout_height="wrap_content" android:id="@+id/seekHorizzontal" android:layout_width="292dp" android:layout_x="72dp" android:layout_y="100dp"></SeekBar>
+<SeekBar android:layout_height="wrap_content" android:id="@+id/seekVertical" android:layout_width="292dp" android:layout_x="74dp" android:layout_y="141dp"></SeekBar>
+</AbsoluteLayout>
